@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680244317 source:d:\alpro\atm\atmfile.c
+	"atmfile.h"
+	<stdio.h>
+	<stdlib.h>
+
+1680244858 d:\alpro\atm\atmfile.h
+
